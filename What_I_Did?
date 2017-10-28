@@ -1,0 +1,12 @@
+
+
+
+I have connected the ultrasonic sensor and LCD 16x2 to Arduino and it has been programmed in such a way that the input value which is 
+given from the ULT sensor by calculating the duration of trigger and echo values. Then the arduino calculates the current distance
+from the obstacle and displays it in LCD. I have placed this whole setup on top of the water body so that the current level of the
+water in the container can be acknowledged. 
+
+DEVELOPMENT:
+  This can be connected to a relay switch which is indeed connected to a motor pump so that whenever there occors a excess flow 
+  of water, the moto pumo can be switched off!
+  
